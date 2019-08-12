@@ -8,19 +8,20 @@
     "start": "node server/index.js"
   },
   "dependencies": {
+    "applicationinsights": "^1.4.0",
     "body-parser": "^1.15.0",
     "classname": "0.0.0",
     "express": "^4.13.4",
     "flux": "^2.1.1",
     "mongodb": "~2.1.14",
+    "mongodb-uri": "^0.9.7",
     "node-uuid": "^1.4.8",
     "pug": "^2.0.0-rc.1",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
     "react-fa": "^4.0.1",
     "request": "^2.69.0",
-    "uuid": "^2.0.2",
-    "mongodb-uri": "^0.9.7"
+    "uuid": "^2.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",

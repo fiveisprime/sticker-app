@@ -16,7 +16,7 @@
     "mongodb": "~2.1.14",
     "mongodb-uri": "^0.9.7",
     "node-uuid": "^1.4.8",
-    "pug": "^2.0.0-rc.1",
+    "pug": "^3.0.1",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
     "react-fa": "^4.0.1",

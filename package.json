@@ -38,7 +38,7 @@
     "file-loader": "^0.8.5",
     "gulp": "^3.9.1",
     "gulp-eslint": "^2.0.0",
-    "lodash": "^4.15.0",
+    "lodash": "^4.17.21",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.12.14"
